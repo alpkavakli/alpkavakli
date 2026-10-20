@@ -1,5 +1,7 @@
-## Hi there 👋
+Hello cool ppl
 
+### Reach Me
+If you want to reach me: [Click for my email](mailto:alpkavakli@gmail.com)
 <!--
 **alpkavakli/alpkavakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
